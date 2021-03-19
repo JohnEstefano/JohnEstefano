@@ -11,7 +11,7 @@
 - ☕ &nbsp; I belive, a perfect cup of chamomile tea can be the ultimate solution for any stress. 
 - 😄 Pronouns: he/him/his
 
-<h3>🛠 Tech Stack</h3>
+<h2>🛠 Tech Stack</h2>
 
 - 💻 &nbsp; Main Languages: Python | SQL 
 - 🖥 &nbsp; System Environments: macOS | Windows | macOS 
@@ -19,8 +19,8 @@
 - 🛢 &nbsp; Databases: MySQL | PostgreSQL | Cassandra | Redshift
 - 🔧 &nbsp; Big Data Tools: Hadoop | Sqoop | Kafka | Faust | Avro | Spark | Airflow | Spark Streams | KSQL | EMR | Hudi | EC2 | S3 | REST Proxy
 
-<h3>🛠 Data Engineering Projects</h3>
-<h4> PROJECT SPARKIFY: Below is project that showcase my iterative data engineering skills. Each step increases the robustness of the data pipeline by adding an extra layer of functionally.</h4>
+<h2>🛠 Data Engineering Projects</h2>
+<h3> PROJECT SPARKIFY: Below is project that showcase my iterative data engineering skills. Each step increases the robustness of the data pipeline by adding an extra layer of functionally.</h3>
 
 A startup called Sparkify wanted to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analytics team was particularly interested in understanding what songs users are listening to. 
 
