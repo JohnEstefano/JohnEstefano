@@ -8,18 +8,16 @@
 - 🤔 &nbsp; I love exploring new technologies and developing software solutions and quick hacks.
 - 🌱 &nbsp; Enthusiast in all things tech and data enginering.
 - ✍️ &nbsp; Aside from coding I enjoy playing video games, watching cooking shows on youtube and trying out anything that piques my interest.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; I belive, a perfect cup of chamomile tea can be the ultimate solution for any stress. 
 - 😄 Pronouns: he/him/his
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Languages: Python | SQL  Windows 
+- 💻 &nbsp; Main Languages: Python | SQL 
 - 🖥 &nbsp; System Environments: macOS | Windows | macOS 
 - 🌐 &nbsp; Cloud Platforms: Amazon Web Services | Google Cloud Platform | IBM Cloud
 - 🛢 &nbsp; Databases: MySQL | PostgreSQL | Cassandra | Redshift
 - 🔧 &nbsp; Big Data Tools: Hadoop | Sqoop | Kafka | Faust | Avro | Spark | Airflow | Spark Streams | KSQL | EMR | Hudi | EC2 | S3 | REST Proxy
-
-
 
 <br>
 
