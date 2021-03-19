@@ -20,7 +20,7 @@
 - 🔧 &nbsp; Big Data Tools: Hadoop | Sqoop | Kafka | Faust | Avro | Spark | Airflow | Spark Streams | KSQL | EMR | Hudi | EC2 | S3 | REST Proxy
 
 <h2>🛠 Highlighted Data Engineering Projects</h2>
-<h2>**Please visit my repo page to view all of the projects that aren't mentioned here. Thanks!**</h2>
+
 <h3> PROJECT SPARKIFY: Showcases my iterative data engineering skills. Each step increases the robustness of the data pipeline by adding an extra layer of functionally.</h3>
 
 A startup called Sparkify wanted to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analytics team was particularly interested in understanding what songs users are listening to. 
@@ -43,6 +43,10 @@ A startup called Sparkify wanted to analyze the data they've been collecting on 
 It interacts with both a MySql database and Smartsheet API and has a very specific usecase that takes data from database, modifies it in a very specific way then updates specified Smartsheet sheet. 
 
 [Smartsheet Project](https://github.com/JohnEstefano/MySQL-Smartsheet-API-Python-Connector)
+
+<h2>**Please visit my repo page to view all of the projects that aren't mentioned here. Thanks!**</h2>
+
+[REPOS](https://github.com/JohnEstefano?tab=repositories)
 
 <br>
 
