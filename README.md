@@ -1,4 +1,4 @@
-<h2> Hey there! I'm John. <img src="https://github.com/JohnEstefano/JohnEstefano/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm John. <img src="https://github.com/JohnEstefano/JohnEstefano/blob/main/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://github.com/JohnEstefano/JohnEstefano/blob/main/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
