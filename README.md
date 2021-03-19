@@ -20,7 +20,7 @@
 - 🔧 &nbsp; Big Data Tools: Hadoop | Sqoop | Kafka | Faust | Avro | Spark | Airflow | Spark Streams | KSQL | EMR | Hudi | EC2 | S3 | REST Proxy
 
 <h2>🛠 Data Engineering Projects</h2>
-<h3> PROJECT SPARKIFY: Below is project that showcases my iterative data engineering skills. Each step increases the robustness of the data pipeline by adding an extra layer of functionally.</h3>
+<h3> PROJECT SPARKIFY: Showcases my iterative data engineering skills. Each step increases the robustness of the data pipeline by adding an extra layer of functionally.</h3>
 
 A startup called Sparkify wanted to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analytics team was particularly interested in understanding what songs users are listening to. 
 
@@ -33,6 +33,9 @@ A startup called Sparkify wanted to analyze the data they've been collecting on 
 [Step 4](https://github.com/JohnEstefano/AWS_Data_Lake): Adds Apache Spark to increase the pipeline’s data processing ability so it can handle large scale data processing.
 
 [Step 5](https://github.com/JohnEstefano/AIRFLOW_Data_Pipeline): Adds Apache Airflow in the mix to introduce more automation and monitoring to their data warehouse ETL pipelines.
+
+<h3> PROJECT CHICAGO TRANSIT: Showcases my realtime data streaming skills.</h3>
+[Chicago Project](https://github.com/JohnEstefano/KAFKA-Optimizing-Public-Transportation)
 
 <br>
 
