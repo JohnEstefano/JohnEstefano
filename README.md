@@ -44,7 +44,7 @@ It interacts with both a MySql database and Smartsheet API and has a very specif
 
 [Smartsheet Project](https://github.com/JohnEstefano/MySQL-Smartsheet-API-Python-Connector)
 
-<h2>**Please visit my repo page to view all of the projects that aren't mentioned here. Thanks!**</h2>
+<h2>**Please visit my repo page to view all of the other projects that aren't mentioned here. Thanks!**</h2>
 
 [REPOS](https://github.com/JohnEstefano?tab=repositories)
 
