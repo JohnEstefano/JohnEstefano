@@ -1,7 +1,7 @@
 <h1> Hey there! I'm John. <img src="https://github.com/JohnEstefano/JohnEstefano/blob/main/Hi.gif" width="25"></h1>
 <img align="right" alt="GIF" src="https://github.com/JohnEstefano/JohnEstefano/blob/main/gif3.gif" width="500"/>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h2> 👨🏻‍💻 About Me </h2>
 
 - 💼 &nbsp; I work as a data engineer at a digital marketing agency called MediaCom (GroupM Subsidiary)
 - 🔭 &nbsp; I’m always working on adding and polishing my data enigeering toolkit
