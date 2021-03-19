@@ -20,7 +20,7 @@
 - 🔧 &nbsp; Big Data Tools: Hadoop | Sqoop | Kafka | Faust | Avro | Spark | Airflow | Spark Streams | KSQL | EMR | Hudi | EC2 | S3 | REST Proxy
 
 <h2>🛠 Data Engineering Projects</h2>
-<h3> PROJECT SPARKIFY: Below is project that showcase my iterative data engineering skills. Each step increases the robustness of the data pipeline by adding an extra layer of functionally.</h3>
+<h3> PROJECT SPARKIFY: Below is project that showcases my iterative data engineering skills. Each step increases the robustness of the data pipeline by adding an extra layer of functionally.</h3>
 
 A startup called Sparkify wanted to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analytics team was particularly interested in understanding what songs users are listening to. 
 
