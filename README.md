@@ -1,4 +1,4 @@
-<h2> Hey there! I'm John. <img src="https://github.com/JohnEstefano/JohnEstefano/blob/main/Hi.gif" width="25"></h2>
+<h1> Hey there! I'm John. <img src="https://github.com/JohnEstefano/JohnEstefano/blob/main/Hi.gif" width="25"></h1>
 <img align="right" alt="GIF" src="https://github.com/JohnEstefano/JohnEstefano/blob/main/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -20,7 +20,7 @@
 - 🔧 &nbsp; Big Data Tools: Hadoop | Sqoop | Kafka | Faust | Avro | Spark | Airflow | Spark Streams | KSQL | EMR | Hudi | EC2 | S3 | REST Proxy
 
 <h3>🛠 Data Engineering Projects</h3>
-<h4>Below is project that showcase my data enigeering skills. Each step increases the robustness of the data pipeline by adding an extra layer of functionaly.</h4>
+<h4> PROJECT SPARKIFY: Below is project that showcase my iterative data engineering skills. Each step increases the robustness of the data pipeline by adding an extra layer of functionally.</h4>
 
 A startup called Sparkify wanted to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analytics team was particularly interested in understanding what songs users are listening to. 
 
