@@ -38,8 +38,8 @@ A startup called Sparkify wanted to analyze the data they've been collecting on 
 
 [Chicago Project](https://github.com/JohnEstefano/KAFKA-Optimizing-Public-Transportation)
 
-<h3> PROJECT SMARTSHEET: Showcases my ability to build a solution that incorporates Developer APIs. It interacts with both a MySql database and Smartsheet API.
-Very specific usecase that takes data from database, modifies it in a very specific way then updates specified Smartsheet sheet.</h3>
+<h3> PROJECT SMARTSHEET: Showcases my ability to build a solution that incorporates Developer APIs. 
+It interacts with both a MySql database and Smartsheet API and has a very specific usecase that takes data from database, modifies it in a very specific way then updates specified Smartsheet sheet.</h3>
 
 [Smartsheet Project](https://github.com/JohnEstefano/MySQL-Smartsheet-API-Python-Connector)
 
