@@ -35,6 +35,7 @@ A startup called Sparkify wanted to analyze the data they've been collecting on 
 [Step 5](https://github.com/JohnEstefano/AIRFLOW_Data_Pipeline): Adds Apache Airflow in the mix to introduce more automation and monitoring to their data warehouse ETL pipelines.
 
 <h3> PROJECT CHICAGO TRANSIT: Showcases my realtime data streaming skills.</h3>
+
 [Chicago Project](https://github.com/JohnEstefano/KAFKA-Optimizing-Public-Transportation)
 
 <br>
