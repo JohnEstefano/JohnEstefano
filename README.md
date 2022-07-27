@@ -3,7 +3,7 @@
 
 <h2> 👨🏻‍💻 About Me </h2>
 
-- 💼 &nbsp; I work as a data engineer at a digital marketing agency called MediaCom (GroupM Subsidiary)
+- 💼 &nbsp; I work as a data engineer at a healthcare analytics & data company called Trella Health
 - 🔭 &nbsp; I’m always working on adding and polishing my data enigeering toolkit
 - 🤔 &nbsp; I love exploring new technologies and developing software solutions and quick hacks.
 - 🌱 &nbsp; Enthusiast in all things tech and data enginering.
