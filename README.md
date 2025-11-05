@@ -9,7 +9,7 @@
 - 🌱 &nbsp; Enthusiast in all things tech and data enginering.
 - ✍️ &nbsp; Aside from coding I enjoy playing video games, watching cooking shows on youtube and trying out anything that piques my interest.
 - ☕ &nbsp; I belive, a perfect cup of chamomile tea can be the ultimate solution for any stress. 
-- 😄 Pronouns: he/him/his
+
 
 <h2>🛠 Tech Stack</h2>
 
